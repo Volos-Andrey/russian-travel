@@ -1,0 +1,13 @@
+.intro__unit_text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 163%;
+    color: #ffff;
+    margin: 48px 0 33px;
+}
+
+@media screen and (max-width: 960px) {
+    .intro__unit_text {
+        margin-top: 40px;
+    }
+}

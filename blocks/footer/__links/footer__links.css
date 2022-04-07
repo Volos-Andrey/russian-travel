@@ -1,0 +1,10 @@
+.footer__links {
+    display: flex;
+}
+
+@media screen and (max-width: 660px) {
+    .footer__links {
+        padding: 0;
+        display: block;
+    }
+}

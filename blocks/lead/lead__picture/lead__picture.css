@@ -1,0 +1,9 @@
+.lead__picture {
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 1200px) {
+    .lead__picture {
+        max-width: 928px;
+    }
+}
