@@ -1,4 +1,4 @@
-.place__paragraph_text {
+.place__text {
     font-weight: 400;
     font-size: 18px;
     line-height: 163%;
@@ -6,12 +6,12 @@
     margin: 0 0 26px 0;
 }
 
-.place__paragraph_text:last-child {
+.place__text:last-child {
     margin-bottom: 0;
 }
 
 @media screen and (max-width: 960px) {
-    .place__paragraph_text {
+    .place__text {
         font-size: 16px;
         line-height: 163%;
         margin-bottom: 25px;
@@ -19,7 +19,7 @@
 }
 
 @media screen and (max-width: 660px) {
-    .place__paragraph_text {
+    .place__text {
         max-width: 288px;
         margin: 0 auto 25px;
         font-size: 16px;

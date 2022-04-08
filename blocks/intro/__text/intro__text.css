@@ -1,4 +1,4 @@
-.intro__unit_text {
+.intro__text {
     font-weight: 400;
     font-size: 16px;
     line-height: 163%;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (max-width: 960px) {
-    .intro__unit_text {
+    .intro__text {
         margin-top: 40px;
     }
 }
