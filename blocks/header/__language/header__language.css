@@ -6,14 +6,17 @@
     font-weight: 400;
     text-align: right;
     margin: 0 18px 0 0;
-    text-decoration: none;
+    text-decoration: underline;
     transition: .5s;
+}
+
+.header__language:last-child {
+    text-decoration: none;
 }
 
 .header__language:hover {
     opacity: .4;
     transition: .5s;
-    text-decoration: underline;
 }
 
 @media screen and (max-width: 660px) {
