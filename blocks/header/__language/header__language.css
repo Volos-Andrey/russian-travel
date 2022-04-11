@@ -10,10 +10,6 @@
     transition: .5s;
 }
 
-.header__language:last-child {
-    text-decoration: none;
-}
-
 .header__language:hover {
     opacity: .4;
     transition: .5s;
