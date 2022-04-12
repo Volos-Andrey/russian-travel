@@ -23,9 +23,10 @@
 
 @media screen and (max-width: 660px) {
     .place__title {
-        text-align: center;
-        margin: 0 auto 32px;
+        max-width: 288px;
+        text-align: left;
         font-size: 32px;
         line-height: 35px;
+        margin: 0 auto;
     }
 }

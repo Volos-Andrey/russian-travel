@@ -6,14 +6,9 @@
     margin: 0 0 26px 0;
 }
 
-.place__text:last-child {
-    margin-bottom: 0;
-}
-
 @media screen and (max-width: 960px) {
     .place__text {
         font-size: 16px;
-        line-height: 163%;
         margin-bottom: 25px;
     }
 }
@@ -22,6 +17,5 @@
     .place__text {
         margin: 0 auto 25px;
         font-size: 16px;
-        line-height: 163%;
     }
 }

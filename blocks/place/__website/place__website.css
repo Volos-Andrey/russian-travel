@@ -20,6 +20,8 @@
 
 @media screen and (max-width: 660px) {
     .place__website {
+        text-align: center;
+        max-width: 288px;
         margin: 0 auto;
     }
 }
